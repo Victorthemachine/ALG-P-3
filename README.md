@@ -1,11 +1,11 @@
 # Inputs and expected outputs:
 in:
-10 5 3 2
-0
-5
-10
-2
-8
+10 5 3 2 <br/>
+0 <br/>
+5 <br/>
+10 <br/>
+2 <br/>
+8 <br/>
 
 (since it's written in C++ here is one line paste (without airquotes): "10 5 3 2 0 5 10 2 8")
 out:
