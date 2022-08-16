@@ -1,4 +1,7 @@
 # Inputs and expected outputs:
+
+This was a homework demonstaration piece, I don't have the necessary exposition for it to make sense, so take it as you will
+
 in: <br/>
 10 5 3 2 <br/>
 0 <br/>
